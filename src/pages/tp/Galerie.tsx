@@ -66,7 +66,7 @@ const Galerie = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                <strong className="text-foreground">Galerie d'Images</strong> est une application web complète développée en PHP 
+                Galerie d'Images est une application web complète développée en PHP 
                 permettant de gérer une collection d'images de manière professionnelle. Ce projet met en œuvre les compétences 
                 essentielles du développement web moderne : gestion sécurisée des fichiers, manipulation d'images, requêtes SQL 
                 optimisées et conception d'interface utilisateur responsive.

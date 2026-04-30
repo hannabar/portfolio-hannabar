@@ -63,7 +63,7 @@ const PPEMain = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                <strong className="text-foreground">GSB</strong> est une application web de gestion des frais professionnels destinée aux visiteurs médicaux de l'entreprise Galaxy Swiss Bourdin. Ce projet répond à un besoin concret de centraliser et uniformiser la déclaration des dépenses engagées lors des déplacements professionnels comme les frais de restauration, d'hébergement et de déplacement. L'application a été développée individuellement en PHP avec une architecture MVC, une base de données MySQL, et une interface en HTML/CSS avec Bootstrap pour la rendre responsive.
+                GSB Appli Frais est une application web de gestion des frais professionnels destinée aux visiteurs médicaux de l'entreprise Galaxy Swiss Bourdin. Ce projet répond à un besoin concret de centraliser et uniformiser la déclaration des dépenses engagées lors des déplacements professionnels comme les frais de restauration, d'hébergement et de déplacement. L'application a été développée individuellement en PHP avec une architecture MVC, une base de données MySQL, et une interface en HTML/CSS avec Bootstrap pour la rendre responsive.
               </p>
               <p>
                 Le visiteur médical se connecte avec ses identifiants sécurisés et accède à son espace personnel depuis lequel il peut déclarer, consulter, modifier ou supprimer ses fiches de frais. Chaque dépense est classée selon qu'elle est remboursable (fiche forfait) ou non remboursable (fiche hors forfait), permettant une gestion claire et transparente des remboursements.

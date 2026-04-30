@@ -65,13 +65,10 @@ const projects = [
   },
   {
     title: "Mini Blog",
-    description: "Blog complet avec système de publication d'articles et authentification.",
+    description: "Blog complet avec système de publication d'articles.",
     technologies: ["PHP", "MySQL", "HTML", "CSS"],
     features: [
-      "CRUD d'articles complet",
-      "Système de commentaires",
-      "Authentification utilisateurs",
-      "Interface d'administration",
+      "CRUD d'articles complet"
     ],
     category: "Web App",
     slug: "mini-blog",

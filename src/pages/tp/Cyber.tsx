@@ -114,10 +114,6 @@ const Cyber = () => {
                 <span className="text-primary mt-1">•</span>
                 Mise en place de correctifs concrets : requêtes préparées avec PDO, hachage des mots de passe avec password_hash / password_verify, échappement HTML avec htmlspecialchars
               </li>
-              <li className="flex items-start gap-3">
-                <span className="text-primary mt-1">•</span>
-                Rédaction d'un rapport technique documentant les payloads utilisés, les impacts et les recommandations (CSP, cookies SameSite, rate limiting)
-              </li>
             </ul>
           </motion.div>
 

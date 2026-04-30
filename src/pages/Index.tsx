@@ -27,6 +27,7 @@ const Index = () => {
                   je me forme aux métiers du développement logiciel et des applications métiers.
                 </p>
               <p>Titulaire d'un Baccalauréat Général mention Bien avec la spécialité NSI, j'ai acquis de solides bases en algorithmique, en Python et en  bases de données.
+      
                 </p>
                 <p>
                   En alternance, je développe mes compétences en entreprise tout en suivant ma formation. 
@@ -44,7 +45,7 @@ const Index = () => {
 
               <div className="glass-card rounded-2xl p-6">
                 <h3 className="font-display font-semibold mb-4 flex items-center gap-3">
-        
+  
                   Formation
                 </h3>
                 <ul className="space-y-3 text-sm">
@@ -61,7 +62,6 @@ const Index = () => {
 
               <div className="glass-card rounded-2xl p-6">
                 <h3 className="font-display font-semibold mb-4 flex items-center gap-3">
-                
                   Expériences
                 </h3>
                 <ul className="space-y-3 text-sm">

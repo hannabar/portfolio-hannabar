@@ -63,7 +63,7 @@ const PPEAndroidJava = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                <strong className="text-foreground">Medicine App</strong> est une application mobile Android développée pour les visiteurs médicaux de l'entreprise GSB, leur permettant de rechercher rapidement des médicaments officiellement commercialisés en France. Elle s'appuie sur la Base de Données Publique des Médicaments du gouvernement français intégrée directement dans l'application. Le projet a été développé individuellement en Java avec Android Studio.
+                Medicine App est une application mobile Android développée pour les visiteurs médicaux de l'entreprise GSB, leur permettant de rechercher rapidement des médicaments officiellement commercialisés en France. Elle s'appuie sur la Base de Données Publique des Médicaments du gouvernement français intégrée directement dans l'application. Le projet a été développé individuellement en Java avec Android Studio.
               </p>
               <p>
                 L'accès à l'application est sécurisé par une authentification en deux étapes : le visiteur saisit son code visiteur, le serveur vérifie le token associé puis envoie un code aléatoire par email que l'utilisateur doit saisir pour valider sa connexion. Une fois connecté, il peut rechercher un médicament selon plusieurs critères et consulter ses informations détaillées.

@@ -63,7 +63,7 @@ const SweetMemory = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                <strong className="text-foreground">Sweet Memory</strong> est une application web interactive développée en JavaScript 
+                Sweet Memory est une application web interactive développée en JavaScript 
                 permettant aux utilisateurs de jouer à un jeu de memory ludique basé sur des illustrations de petites sucreries.
                 Ce projet met en œuvre les fondamentaux du développement front-end moderne : gestion des événements, logique de jeu, 
                 calcul du temps et animations CSS.

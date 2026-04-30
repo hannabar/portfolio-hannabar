@@ -63,7 +63,7 @@ const MachineASous = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                <strong className="text-foreground">Machine à sous</strong> est une simulation de jeu de casino
+                Machine à sous est une simulation de jeu de casino
                 développée en JavaScript. Le projet reproduit le fonctionnement d'une vraie machine à sous
                 avec des rouleaux animés et un système de gains.
               </p>
@@ -87,7 +87,7 @@ const MachineASous = () => {
             <ul className="space-y-3 text-muted-foreground">
               <li className="flex items-start gap-3">
                 <span className="text-primary mt-1">•</span>
-                Génération aléatoire de symboles (Math.random())
+                Génération aléatoire de symboles
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-primary mt-1">•</span>

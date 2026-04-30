@@ -17,7 +17,7 @@ const MiniBlog = () => {
       
       <PageHeader
         title="Mini Blog"
-        subtitle="Blog complet avec système de publication d'articles et authentification."
+        subtitle="Blog complet avec système de publication d'articles."
         backgroundVideo={miniBlogVideo}
       />
 
@@ -66,13 +66,8 @@ const MiniBlog = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                <strong className="text-foreground">Mini Blog</strong> est une plateforme de blogging complète
-                développée en PHP avec MySQL. Elle permet la publication, l'édition et la suppression d'articles
-                avec un système de commentaires.
-              </p>
-              <p>
-                Le projet inclut un système d'authentification complet avec différents niveaux d'accès
-                (administrateur, auteur, lecteur).
+                Mini Blog est une plateforme de blogging complète
+                développée en PHP avec MySQL. Elle permet la publication, l'édition et la suppression d'articles.
               </p>
             </div>
           </motion.div>
@@ -109,19 +104,7 @@ const MiniBlog = () => {
                 <span className="text-primary mt-1">•</span>
                 CRUD complet pour les articles
               </li>
-              <li className="flex items-start gap-3">
-                <span className="text-primary mt-1">•</span>
-                Système de commentaires modéré
-              </li>
-              <li className="flex items-start gap-3">
-                <span className="text-primary mt-1">•</span>
-                Authentification avec gestion des rôles
-              </li>
-              <li className="flex items-start gap-3">
-                <span className="text-primary mt-1">•</span>
-                Interface d'administration complète
-              </li>
-            </ul>
+              </ul>
           </motion.div>
 
           {/* Conclusion */}
@@ -136,8 +119,7 @@ const MiniBlog = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                Ce projet m'a permis d'approfondir la sécurité web (protection contre les injections SQL,
-                XSS) et la gestion des sessions utilisateur.
+                Ce projet m'a permis d'approfondir la gestion d'un CRUD.
               </p>
             </div>
           </motion.div>

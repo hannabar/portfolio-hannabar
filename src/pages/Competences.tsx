@@ -29,7 +29,7 @@ const securitySkills = [
   "Analyse des logs",
 ];
 
-const tools = ["Git / GitHub", "VS Code", "Visual Studio", "PHPStorm", "Docker", "Odoo", "Android Studio", "XAMPP", "WAMP"];
+const tools = ["Git / GitHub", "VS Code", "Visual Studio", "Docker", "Odoo", "Android Studio", "XAMPP"];
 
 const btsSioBloc1 = [
   "Gérer le patrimoine informatique",
