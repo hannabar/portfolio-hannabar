@@ -23,12 +23,10 @@ const Index = () => {
               </h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Actuellement étudiante en <strong className="text-foreground">BTS SIO option SLAM</strong> à Euroforma Paris, 
+                  Actuellement étudiante en BTS SIO option SLAM à Euroforma Paris, 
                   je me forme aux métiers du développement logiciel et des applications métiers.
                 </p>
               <p>Titulaire d'un Baccalauréat Général mention Bien avec la spécialité NSI, j'ai acquis de solides bases en algorithmique, en Python et en  bases de données.
-                  <strong className="text-foreground">Baccalauréat Général mention Bien</strong> avec la spécialité 
-                  NSI, j'ai acquis de solides bases en algorithmique, Python et bases de données.
                 </p>
                 <p>
                   En alternance, je développe mes compétences en entreprise tout en suivant ma formation. 
@@ -46,9 +44,7 @@ const Index = () => {
 
               <div className="glass-card rounded-2xl p-6">
                 <h3 className="font-display font-semibold mb-4 flex items-center gap-3">
-                  <span className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
-                    📚
-                  </span>
+        
                   Formation
                 </h3>
                 <ul className="space-y-3 text-sm">
@@ -65,9 +61,7 @@ const Index = () => {
 
               <div className="glass-card rounded-2xl p-6">
                 <h3 className="font-display font-semibold mb-4 flex items-center gap-3">
-                  <span className="w-10 h-10 rounded-lg bg-accent/10 flex items-center justify-center">
-                    💼
-                  </span>
+                
                   Expériences
                 </h3>
                 <ul className="space-y-3 text-sm">
