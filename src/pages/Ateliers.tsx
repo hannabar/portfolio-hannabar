@@ -21,13 +21,12 @@ const ateliers = [
     ],
     conception: [
       "Cahier des charges fonctionnel et technique",
-      "Maquettes wireframes et mockups UI/UX",
+      "Maquettes mockups",
     ],
     technologies: ["Java Android Studio", "Base de données SQLite locale"],
     competences: [
       "Développement mobile Android",
       "Gestion de bases de données locales",
-      "Conception UI/UX mobile",
     ],
     githubLink: "https://github.com/hannabar/GSB_MedicineApp.git",
     tpLink: "/tp/ppe-android-java",

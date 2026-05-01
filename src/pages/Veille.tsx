@@ -123,7 +123,7 @@ const Veille = () => {
                 { icon: Globe, title: "Sites spécialisés", desc: "Futura Sciences, CNIL, 01net..." },
                 { icon: Mail, title: "Newsletters", desc: "Usine Digitale, Numerama Règle 30..." },
                 { icon: Bell, title: "Alertes Google", desc: "Configurées sur mes thèmes" },
-                { icon: Users, title: "Réseaux sociaux", desc: "LinkedIn, Twitter/X" },
+                { icon: Users, title: "Magazines", desc: "Science et vie junior" },
               ].map((item, i) => (
                 <div key={i} className="flex items-center gap-3 rounded-xl border border-border bg-card p-3">
                   <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center shrink-0">
@@ -205,16 +205,16 @@ const Veille = () => {
                     link: "https://www.cnil.fr/fr/biometrie-sur-les-lieux-de-travail-publication-dun-reglement-type",
                   },
                   {
-                    handle: "@TouteLEurope",
-                    avatar: "TE",
-                    text: "EU AI Act : interdiction de la reconnaissance faciale en temps réel depuis le 2 février 2025",
-                    date: "4 août 2025",
+                    handle: "@zalix",
+                    avatar: "ZA",
+                    text: "Contrôle d'accès biométrique aux cantines scolaires",
+                    date: "18 août ",
                     category: "Biométrie",
                     catColor: "violet",
                     likes: 521,
                     retweets: 203,
                     comments: 89,
-                    link: "https://www.touteleurope.eu/economie-et-social/intelligence-artificielle-que-fait-l-union-europeenne/",
+                    link: "https://www.zalix.fr/produit/cantine-scolaire/",
                   },
                   {
                     handle: "@FuturaSciences",
@@ -229,16 +229,16 @@ const Veille = () => {
                     link: "https://www.futura-sciences.com/sante/actualites/medecine-cea-obtient-images-irm-cerveau-plus-precises-monde-mieux-comprendre-alzheimer-94013/",
                   },
                   {
-                    handle: "@Numerama",
-                    avatar: "Nu",
-                    text: "EU AI Act : interdiction des systèmes d'IA à risque inacceptable depuis février 2025",
-                    date: "3 fév. 2025",
+                    handle: "@lapresse",
+                    avatar: "LA",
+                    text: "Entrer dans sa voiture sans sa clé",
+                    date: "27 mai 2025",
                     category: "Biométrie",
                     catColor: "violet",
                     likes: 445,
                     retweets: 178,
                     comments: 65,
-                    link: "https://intelligence-artificielle.developpez.com/actu/368699/",
+                    link: "https://www.lapresse.ca/auto/voitures-electriques/2023-05-27/chronique-techno/entrer-dans-sa-voiture-sans-sa-cle.php",
                   },
                   {
                     handle: "@01net",
